@@ -1,0 +1,11 @@
+.css{
+    color: red;
+}
+
+.head{
+    padding: 20px;
+    display: flex;
+    background-color: gray;
+    justify-content: start;
+    align-items: center;
+}
